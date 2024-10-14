@@ -1,6 +1,5 @@
----
 
-# 👋 Hello, World! I'm Chaz!  
+### 👋 Hello, World! I'm Chaz!  
 
 ![Banner](https://img.shields.io/badge/-Code%20%7C%20Create%20%7C%20Innovate-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white)
 
