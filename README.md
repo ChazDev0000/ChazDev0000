@@ -1,5 +1,3 @@
-Sure! Here’s a cool and impressive **GitHub README** template. You can customize the text, emojis, and links to match your personality and showcase your skills effectively.
-
 ---
 
 # 👋 Hello, World! I'm Chaz!  
